@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7dc32bd-16fe-4dfa-ad37-0ae7f6b746e7" name="Changes" comment="">
+    <list default="true" id="8349b4bd-6e68-4b49-9c2d-14233d4f3a7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NexignNavigationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1742726860584.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1742726860584.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1742726884658.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1742726884658.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1742727180471.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/1742727180471.0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/NexignNavigationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/NexignNavigationTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lab2/src/test/java/NexignTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2/src/test/java/NexignTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +39,7 @@
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2uiKMu1txiHe2uZrZlycnau1Hqw" />
+  <component name="ProjectId" id="2uiTzBVNzKor4nBI45WIrVxltTo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,21 +49,20 @@
     "JUnit.NexignNavigationTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
+    "git-widget-placeholder": "new-branch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/zisse/IdeaProjects/nexign/lab1",
-    "onboarding.tips.debug.path": "C:/Users/zisse/IdeaProjects/nexign_lab1/src/main/java/org/example/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/zisse/IdeaProjects/nexign/lab1/src/main/java/org/example/Main.java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b7dc32bd-16fe-4dfa-ad37-0ae7f6b746e7" name="Changes" comment="" />
-      <created>1742725913903</created>
+      <changelist id="8349b4bd-6e68-4b49-9c2d-14233d4f3a7d" name="Changes" comment="" />
+      <created>1742730659694</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742725913903</updated>
+      <updated>1742730659694</updated>
     </task>
     <servers />
   </component>
